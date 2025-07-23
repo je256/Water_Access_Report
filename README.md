@@ -1,5 +1,7 @@
 # Power_BI-Water_Access_Report
-<img width="864" height="492" alt="powerbi_report" src="https://github.com/user-attachments/assets/aee8eef8-9639-41a4-a431-b95d452e6b3f" />
+
+<img width="862" height="494" alt="powerbi_report" src="https://github.com/user-attachments/assets/46f2f7ed-824c-43f2-8f85-5d7836dcfaef" />
+
 
 ## KEY INSIGHTS 
 - After extensive data analysis and modeling, here are the main findings:
