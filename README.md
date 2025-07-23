@@ -7,7 +7,7 @@
 - After extensive data analysis and modeling, here are the main findings:
 
 ### 1. **Large Population Lacks Basic Water Access**
-- A significant proportion of Maji Ndogo’s population lacks access to basic water services, especially in rural areas.
+- Only 22% of Maji Ndogo’s population has access to basic water services, especially in rural areas.
 - **Contaminated wells**, **broken infrastructure**, and **long queues at shared taps** are key limiting factors.
 - Urban areas are better served, but still show gaps due to aging infrastructure or inadequate coverage.
 
