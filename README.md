@@ -7,7 +7,7 @@
 - After extensive data analysis and modeling, here are the main findings:
 
 ### 1. **Large Population Lacks Basic Water Access**
-- Only 22% of Maji Ndogo’s population has access to basic water services, especially in rural areas.
+- Only 22% of Ikot-abasi´s population has access to basic water services, especially in rural areas.
 - This was determined by creating a new column, 'Basic_water_access' with the following formula:
 ````
 dax
